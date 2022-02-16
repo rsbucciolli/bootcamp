@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: br.com.itau
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gradle, http-client, junit, kotlin, kotlin-application, kotlin-build, logback, micronaut-build, netty-server, problem-json, readme, security-annotations, security-jwt, serialization-jsonb, shade, spring, spring-web, yaml]
